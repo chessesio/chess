@@ -13,3 +13,6 @@ What's on the page
 |When|What|
 |Before|School for my engineering degree|
 |Now|Entrepreneur in training at MEST|
+
+
+[Click here to visit my surge website](https://flavianchessesio.surge.sh)
