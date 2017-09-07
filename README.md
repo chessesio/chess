@@ -17,3 +17,4 @@ What's on the page
 
 [Click here to visit my surge website](https://kibetchessesio.surge.sh)
 
+Go view the website :smiley:, I'm sure you'll like it :grin:
