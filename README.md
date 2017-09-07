@@ -8,3 +8,8 @@ What's on the page
 *Quest
 *About
 
+##What Have I Been Up to?
+
+|When|What|
+|Before|School for my engineering degree|
+|Now|Entrepreneur in training at MEST|
