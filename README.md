@@ -15,4 +15,5 @@ What's on the page
 |Now|Entrepreneur in training at MEST|
 
 
-[Click here to visit my surge website](https://flavianchessesio.surge.sh)
+[Click here to visit my surge website](https://kibetchessesio.surge.sh)
+
