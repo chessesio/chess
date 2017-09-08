@@ -11,6 +11,7 @@ What's on the page
 ## What Have I Been Up to?
 
 |   When   |   What   |
+|----------|----------|
 |   Before   |   School for my engineering degree   |
 |   Now   |   Entrepreneur in training at MEST   |
 
