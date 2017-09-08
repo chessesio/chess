@@ -10,9 +10,9 @@ What's on the page
 
 ## What Have I Been Up to?
 
-| When | What |
-| Before | School for my engineering degree |
-| Now | Entrepreneur in training at MEST |
+|   When   |   What   |
+|   Before   |   School for my engineering degree   |
+|   Now   |   Entrepreneur in training at MEST   |
 
 
 [Click here to visit my surge website](https://kibetchessesio.surge.sh)
