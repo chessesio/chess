@@ -20,4 +20,4 @@ What's on the page
 
 Go view the website :smiley:, I'm sure you'll like it :grin:
 
-![picture of Chess](/images/chess.jpg)
+![picture of Chess](/images/md-header.jpg)
