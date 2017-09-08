@@ -1,5 +1,7 @@
 # You Can Call Me Chess
 
+![picture of Chess](/images/md-header.jpg)
+
 Karibu! Akwaaba! The two words probably don't make sence, grammartically at least, when put side by side like this, but they do provide great insight into my journey thus far. Karibu is Swahili while Akwaaba is Twi, both meaning welcome, welcome to this page and to take a peek into my life, the life of Flavian Kibet Chessesio, but you can call Chess.
 
 What's on the page
@@ -19,5 +21,3 @@ What's on the page
 [Click here to visit my surge website](https://kibetchessesio.surge.sh)
 
 Go view the website :smiley:, I'm sure you'll like it :grin:
-
-![picture of Chess](/images/md-header.jpg)
